@@ -19,30 +19,41 @@ redirect_from:
 
 I am currently a third-year master student at Wuhan University. I am fortunately supervised by Prof. Qian Wang. 
 
+My research is broadly in the field of AI Security, with a particular interest in DNNs backdoor attacks and defenses, and generative models safety. I work toward developing dependable and secure machine learning(ML) systems and am committed to making their applications for deployment in critical infrastructures and consumer electronics.
 
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+% - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+% - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Orion: Online Backdoor Sample Detection via Evolution Deviance](https://www.ijcai.org/proceedings/2023/0096.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Huayang Huang**, Qian Wang, Xueluan Gong, Tao Wang. In Proceedings of the International Joint Conference on Artificial Intelligence, **IJCAI 2023**(CCF-A)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://github.com/Hannah1102/Orion_bd)
+- First defense against backdoor attacks via feature evolution difference in the forward propagation process of the model. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Hijacking Attacks against Neural Networks by Analyzing Training Data](https://www.usenix.org/system/files/sec24summer-prepub-592-ge.pdf), Yunjie Ge, Qian Wang, **Huayang Huang**, Qi Li, Cong Wang, Chao Shen, Lingchen Zhao, Peipei Jiang, Zheng Fang, Shenyi Zhang. In Proceedings of the USENIX Security 2024 (CCF-A, Big4)
+
+- [Redeem Myself: Purifying Backdoors in Deep Learning Models using Self Attention Distillation](https://ieeexplore.ieee.org/abstract/document/10179375/), Xueluan Gong, Yanjiao Chen, Wang Yang, Qian Wang, Yuzhe Gu, **Huayang Huang**, Chao Shen. In Proceedings of the IEEE Symposium on Security and Privacy, **S&P 2023**(CCF-A, Big4)
+
+- [KerbNet: A QoE-aware Kernel-Based Backdoor Attack Framework](https://ieeexplore.ieee.org/abstract/document/10154120/), Xueluan Gong, Yanjiao Chen, Huayang Huang, Weihan Kong, Ziyao Wang, Chao Shen, Qian Wang. Transactions on Dependable and Secure Computing. **TDSC**
+
+- [B3: Backdoor Attacks against Black-box Machine Learning Models](https://dl.acm.org/doi/abs/10.1145/3605212), Xueluan Gong, Yanjiao Chen, Wenbin Yang, Huayang Huang, Qian Wang. Transactions on Privacy and Security.
+
+- [Coordinated Backdoor Attacks against Federated Learning with Model-dependent Triggers](https://ieeexplore.ieee.org/abstract/document/9713908/), Xueluan Gong, Yanjiao Chen, Huayang Huang, Yuqing Liao, Shuai Wang, Qian Wang. IEEE Network. 
+
+- [Defense-resistant Backdoor Attacks against Deep Neural Networks in Outsourced Cloud Environment](), Xueluan Gong, Yanjiao Chen, Qian Wang, Huayang Huang, Lingshuo Meng, Chao Shen, Qian Zhang. Journal on Selected Areas in Communications. 
+
+- [Backdoor Attacks and Defenses for Deep Neural Networks in Outsourced Cloud Environments]()
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
