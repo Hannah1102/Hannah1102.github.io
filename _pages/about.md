@@ -22,11 +22,6 @@ I am currently a third-year master student at Wuhan University. I am fortunately
 My research is broadly in the field of AI Security, with a particular interest in DNNs backdoor attacks and defenses, and generative models safety. I work toward developing dependable and secure machine learning(ML) systems and am committed to making their applications for deployment in critical infrastructures and consumer electronics.
 
 
-
-# 🔥 News
-% - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-% - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/branchynet.png' alt="sym" width="100%"></div></div>
